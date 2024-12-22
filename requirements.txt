@@ -1,4 +1,4 @@
-requests
-bs4
-tqdm
-pyyaml
+requests==2.32.3
+bs4==0.0.2
+tqdm==4.67.1
+pyyaml==6.0.2
